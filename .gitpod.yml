@@ -6,6 +6,7 @@ tasks:
     command: |
       ./mycli --help
       echo "hello"
+      echo "something else"
 vscode:
   extensions:
     - golang.go
